@@ -1,5 +1,9 @@
 # Class 1 Notes
 
+## Class 1 Reading Notes
+
+### 
+
 ## Class 1 Lecture Notes
 
 ### React
