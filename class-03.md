@@ -14,3 +14,12 @@
 3. Idk how to create an example here but you declare an array with some values then another and then set a new variable using {...hello,...world} and this will combine a hello array and world array and their contents.
 4. you would do it the same way, set an array and then declare a variable with whatever. You would then declare a new a variable saying = [this, that, ...newItem].
 5. Same thing as 4 except using curlys than brackets. Set two variables with objects then declare a new variable and say {...One,...Two}.
+
+## Video
+
+1. He maps through his array in state and sends passes information as props to his Person.js.
+2. He is creating a passing in object to loop through array in state to find a certain person, create a new array and modify it by adding a count to it.
+3. Passing it as props in a render return, like...
+ex: Person name={this.state.name}/>
+This will then pass name in state to another component as props so it can be called upon in Person as this.props.name.
+4. This.props.whatever.. I spoke about it above.
